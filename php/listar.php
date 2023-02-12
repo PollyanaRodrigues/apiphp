@@ -29,7 +29,7 @@
 
     //JSON
     json_encode(['cursos' => $cursos]);
-
+    
    
 
 ?>
